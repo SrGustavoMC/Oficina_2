@@ -32,14 +32,6 @@ body {
     flex-direction: row-reverse;
   }
   
-  .section img {
-    width: 100%;
-    max-width: 500px;
-    height: auto;
-    border: 3px solid #00ff80;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 255, 128, 0.3);
-  }
   
   hr {
     border: none;
